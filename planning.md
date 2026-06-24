@@ -114,6 +114,38 @@ Another difficult case will be comments that could fit two labels at once.
 
 I will handle these cases by labeling the comment based on its main purpose. If the comment mainly tells someone to watch or avoid a show, I will label it recommendation. If it mainly explains why something works or does not work, I will label it analysis. If it mainly asks for advice or information, I will label it question. If it mainly expresses a quick feeling or opinion without much explanation, I will label it reaction.
 
+### Documented Examples
+
+While labeling the dataset, some posts were difficult because they could fit more than one category. I labeled each one based on the main purpose of the post instead of just looking for keywords.
+
+
+
+1. **Post:** “Question for people who have read the books and watched the show: I DNF’d the books because I couldn't stand how Holden was written. Some of the other characters were pretty bad as well. If I couldn't stand how they were written in the books, am I likely to feel the same about them in the show?”
+
+   **Possible labels:** Question or Analysis
+
+   **Decision:** Question
+
+   **Reason:** The post includes analysis of why the user disliked the books, but the main purpose is asking other people for advice about whether the show has the same issue. Since it is asking for an opinion and guidance, I labeled it as question.
+
+2. **Post:** “Enjoy the ride, beratna. The adaptation is peak sci-fi and is the benchmark for all sci-fi/space opera series, imo.”
+
+   **Possible labels:** Reaction, Analysis, or Recommendation
+
+   **Decision:** Recommendation
+
+   **Reason:** The post praises the show and gives a small opinion about its quality, but “enjoy the ride” makes it function like a recommendation to keep watching. Since the main purpose is encouraging someone to watch, I labeled it as recommendation.
+
+3. **Post:** “What’s the fucking point of caring about shows anymore”
+
+   **Possible labels:** Question or Reaction
+
+   **Decision:** Reaction
+
+   **Reason:** This is written like a question, but the user is not really asking for an answer. They are expressing frustration about shows being canceled. Because the main purpose is emotional reaction, I labeled it as reaction.
+
+
+
 ## Data Collection
 
 **Source**
