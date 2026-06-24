@@ -307,3 +307,4 @@ Third, I used AI assistance to review the fine-tuned model’s wrong predictions
 In the demo video, I will show the fine-tuned model classifying 3–5 posts. I will include the predicted label and confidence score for each example. I will explain one correct prediction and one incorrect prediction. Then I will briefly walk through the evaluation report, including the baseline accuracy, fine-tuned accuracy, confusion matrix, and the main failure pattern involving `reaction` being confused with `analysis`.
 
 ## LINK TO VIDEO
+https://youtu.be/xA_AxmfUEok
